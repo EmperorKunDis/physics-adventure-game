@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    font-family: 'Inter', sans-serif;
+  }
+}
+
+@layer components {
+  .physics-button {
+    @apply bg-physics-blue hover:bg-blue-600 text-white font-medium py-3 px-6 rounded-lg transition-colors duration-200 shadow-md hover:shadow-lg;
+  }
+  
+  .physics-button-secondary {
+    @apply bg-gray-200 hover:bg-gray-300 text-gray-800 font-medium py-3 px-6 rounded-lg transition-colors duration-200 shadow-md hover:shadow-lg;
+  }
+  
+  .physics-text {
+    @apply text-gray-800 leading-relaxed;
+  }
+  
+  .physics-text-light {
+    @apply text-gray-600 leading-relaxed;
+  }
+  
+  .physics-card {
+    @apply bg-white rounded-xl shadow-lg p-6 border border-gray-100;
+  }
+  
+  .physics-input {
+    @apply border-2 border-gray-300 rounded-lg px-4 py-2 focus:border-physics-blue focus:outline-none transition-colors;
+  }
+}
