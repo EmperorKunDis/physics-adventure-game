@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/physics-adventure-game/static/css/main.cf6c8bae.css",
+    "main.js": "/physics-adventure-game/static/js/main.c260b503.js",
+    "index.html": "/physics-adventure-game/index.html",
+    "main.cf6c8bae.css.map": "/physics-adventure-game/static/css/main.cf6c8bae.css.map",
+    "main.c260b503.js.map": "/physics-adventure-game/static/js/main.c260b503.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf6c8bae.css",
+    "static/js/main.c260b503.js"
+  ]
+}
