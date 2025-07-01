@@ -4,6 +4,8 @@
 
 Edukativní textová hra zaměřená na výuku fyziky pro žáky 6. třídy ZŠ a 1. ročníku SŠ (věk 11-12 let). Hráč se ocitá v "Alternativní Realitě Fyzikálních Zákonů" (ARFZ), kde musí řešit fyzikální hádanky a anomálie, aby se dostal zpět domů.
 
+[Open Game](https://emperorkundis.github.io/physics-adventure-game/)
+
 ## Herní mechaniky
 
 - **Volby z možností**: Jednoduchá interakce bez textového parseru
